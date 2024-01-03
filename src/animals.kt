@@ -71,6 +71,7 @@ fun main(){
     println("${wolf.hunger}")
     println("Учу Git")
     println("From Mac")
-    println("Extra commit")
+    println("add new Extra commit")
+
 
 }
