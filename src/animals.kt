@@ -69,9 +69,5 @@ fun main(){
     vet.giveShot(wolf)
     vet.giveShot(hippo)
     println("${wolf.hunger}")
-    println("Где-то")
-    println("ЧТо-то")
-    println("From Mac")
-    println("add new Extra commit 1")
-
+    println("Git")
 }
