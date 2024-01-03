@@ -74,7 +74,9 @@ fun main(){
     println("From Mac")
     println("add new Extra commit ")
     println("+++")
+    println("///")
     println("---")
+
 
 
 }
