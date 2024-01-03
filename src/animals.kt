@@ -72,7 +72,7 @@ fun main(){
     println("Где-то")
     println("ЧТо-то")
     println("From Mac")
-    println("add new Extra commit ")
+    println("add new Extra commit 1")
 
 
 
