@@ -73,9 +73,7 @@ fun main(){
     println("ЧТо-то")
     println("From Mac")
     println("add new Extra commit ")
-    println("+++")
-    println("///")
-    println("---")
+
 
 
 
