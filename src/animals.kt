@@ -69,6 +69,5 @@ fun main(){
     vet.giveShot(wolf)
     vet.giveShot(hippo)
     println("${wolf.hunger}")
-   println("Merge")
     println("Rebase")
 }
